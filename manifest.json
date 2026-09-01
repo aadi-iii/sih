@@ -1,0 +1,16 @@
+{
+  "short_name": "SIH Lab 3D",
+  "name": "Immersive 3D Virtual Laboratories (SIH)",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "description": "Browser-based 3D virtual STEM laboratories for Physics, Chemistry, Optics, and Electrical Engineering."
+}
